@@ -1,0 +1,10 @@
+sourcetree
+
+Clone 복제
+
+Pull (저장소에서) (파일을) 당겨오다
+
+Stage/Unstage : 버전 관리를 할지말지
+Commit : 변경사항 확인(내 컴퓨터)
+
+Push (저장소에) (파일을) 밀어넣다
